@@ -1,4 +1,4 @@
 {
-  "active_keys": ["MY-SECRET-KEY-123", "NEW-KEY-789"],
-  "disabled_keys": ["OLD-KEY-456", "AZIZ-LOCK-2026"]
+  "active_keys": ["MY-SECRET-KEY-123", "NEW-KEY-789", "AZIZ-LOCK-2026"],
+  "disabled_keys": ["OLD-KEY-456"]
 }
